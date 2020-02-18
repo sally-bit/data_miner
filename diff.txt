@@ -1,0 +1,23 @@
+diff --git a/log.txt b/log.txt
+new file mode 100644
+index 0000000..f22490d
+--- /dev/null
++++ b/log.txt
+@@ -0,0 +1,17 @@
++commit 6c9f2a5966fc8ef3738e931ad430c30a0f5a02ce
++Author: sally-bit <salimatabmb@gmail.com>
++Date:   Tue Feb 18 14:59:05 2020 +0000
++
++    modifier Menu.txt
++
++commit 639128f72d7dcbedbd0658c649f9b25c3480730b
++Author: sally-bit <salimatabmb@gmail.com>
++Date:   Tue Feb 18 14:57:00 2020 +0000
++
++    3.2 creer menu.txt
++
++commit 05c400fbd367bd76a9ba970485b587e225fe9383
++Author: sally-bit <56915404+sally-bit@users.noreply.github.com>
++Date:   Tue Feb 18 14:41:20 2020 +0000
++
++    Initial commit
